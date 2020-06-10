@@ -1,3 +1,20 @@
+// run it one by one and press enter after entering each test cases
+The test cases used are:
+1: 
+2
+bleh 85
+Aequitas 90
+akS 87
+lamiV 20
+ 
+2:
+3
+bleh 85
+Aequitas 90
+akS 87
+lamiV 20
+ 
+3:
 5
 bleh 85
 Aequitas 90
@@ -10,4 +27,17 @@ rewe 96
 qwed 37
 iopu 36
 
+4:
+4
+bleh 85
+Aequitas 90
+akS 87
+lamiV 20
+restive 97
+stdib 28
+dee 65
+rewe 96
+qwed 37
+iopu 36
 
+//output of these test cases are given in output.txt
