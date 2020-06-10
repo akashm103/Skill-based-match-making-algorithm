@@ -5,3 +5,32 @@ the approach for the code is:
        then a vector containg the index of 'ans' in 'superans' with their average 
        In Last it is printed according to differnce of average of both teams
 Major use of hashing to make understanding easy and backtraking for the permutations
+The test cases used are:
+1: 
+2
+bleh 85
+Aequitas 90
+akS 87
+lamiV 20
+ 
+2:
+3
+bleh 85
+Aequitas 90
+akS 87
+lamiV 20
+ 
+3:
+5
+bleh 85
+Aequitas 90
+akS 87
+lamiV 20
+restive 97
+stdib 28
+dee 65
+rewe 96
+qwed 37
+iopu 36
+
+
